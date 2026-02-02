@@ -1,1 +1,2 @@
 # Customer-Accounts-microservice
+[![CI](https://github.com/SuikoHero38/Customer-Accounts-microservice/actions/workflows/ci-build.yaml/badge.svg)](https://github.com/SuikoHero38/Customer-Accounts-microservice/actions/workflows/ci-build.yaml)
